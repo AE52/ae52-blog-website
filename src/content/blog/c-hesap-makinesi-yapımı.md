@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/BlogPost.astro
-title: C' HESAP MAKİNESİ YAPIMI
+title: "C' HESAP "
 description: C' HESAP MAKİNESİ YAPIMI
 publishDate: 2023-10-18T09:50:07.779Z
 heroImage: /assets/placeholder-hero.jpg
